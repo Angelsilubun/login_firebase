@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289589699987",
+    "project_id": "flutter-login-41f16",
+    "storage_bucket": "flutter-login-41f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289589699987:android:0fe2bd10cb17d1b38a3466",
+        "android_client_info": {
+          "package_name": "com.example.cobafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289589699987-g9vphbv84eg0cntufm6fega36ebvfofe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Nqi4J58Ftg-IihaBXnGQmStZDL4dIhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289589699987-g9vphbv84eg0cntufm6fega36ebvfofe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
